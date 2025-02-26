@@ -1,0 +1,49 @@
+{
+  "categories": ["სპორტი", "კინო", "თეატრი", "მუსიკა", "ჰობი", "მუზეუმი", "პონტი"],
+  "events": [
+    {
+      "id": 1,
+      "title": "რამშტაინი",
+      "category": "მუსიკა",
+      "start_price": 49.99,
+      "end_price": 249.99,
+      "date": "2025-03-15",
+      "location": "მთაწმინდის პარკი, თბილისი",
+      "description": "არტ-გენის ფარგლებში დაგეგმილი კონცერტი",
+      "image_url": "https://www.rammstein.de/_next/image/?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F132420%2F1080x1080%2F162e357ed4%2Feuropestadiumtour2024-standard.png%2Fm%2F1500x1500%2Ffilters%3Aquality(60)%2F&w=3840&q=75"
+    },
+    {
+      "id": 2,
+      "title": "სომხეთი:საქართველო",
+      "category": "სპორტი",
+      "start_price": 10,
+      "end_price": 100,
+      "date": "2025-04-10",
+      "location": "ვაზგენ სარქისიანის სტადიონი, ერევანი",
+      "description": "ერთა ლიგის პლეი ოფი",
+      "image_url": "https://sportall.ge/images/new_photo/2025/16-28FEB/1-nakrebi.jpg"
+    },
+    {
+      "id": 3,
+      "title": "მე გადმოვცურავ ზღვას",
+      "category": "თეატრი",
+      "start_price": 50,
+      "end_price": 80,
+      "date": "2025-04-10",
+      "location": "ახალი თეატრი, თბილისი",
+      "description": "მუზიკლი დრამა და ტრაგედიის მიქსით",
+      "image_url": "https://tkt.ge/_next/image?url=https%3A%2F%2Fstatic.tkt.ge%2Fimg%2Fc6273522-d8a1-4965-8d62-7cd874f24530.jpeg&w=3840&q=75"
+    },
+    {
+      "id": 4,
+      "title": "ჰოლუზეუმი",
+      "category": "მუზეუმი",
+      "start_price": 50,
+      "end_price": 80,
+      "date": "2025-04-05",
+      "location": "ჰოლუზეუმი, თბილისი",
+      "description": "ილუზიების მუზეუმი",
+      "image_url": "https://tkt.ge/_next/image?url=https%3A%2F%2Fstatic.tkt.ge%2Fimg%2F7e972066-ba64-4235-94df-4bbfccff13b6&w=3840&q=750"
+    }
+  ]
+}
