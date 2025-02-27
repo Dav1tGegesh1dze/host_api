@@ -44,6 +44,50 @@
       "location": "ჰოლუზეუმი, თბილისი",
       "description": "ილუზიების მუზეუმი",
       "image_url": "https://tkt.ge/_next/image?url=https%3A%2F%2Fstatic.tkt.ge%2Fimg%2F7e972066-ba64-4235-94df-4bbfccff13b6&w=3840&q=750"
+    },
+    {
+      "id": 5,
+      "title": "კაპიტანი ამერიკა: ახალი სამყარო",
+      "category": "კინო",
+      "start_price": 10,
+      "end_price": 20,
+      "date": "2025-03-15",
+      "location": "სითი მოლი, თბილისი",
+      "description": "სამეცნიერო ფანტასტიკა, მარველი",
+      "image_url": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/02/Sam_Wilson_Infobox.jpg/revision/latest?cb=20250117164205"
+    },
+    {
+      "id": 6,
+      "title": "ანანური პარაგლაიდინგი",
+      "category": "ჰობი",
+      "start_price": 500,
+      "end_price": 750,
+      "date": "2025-04-25",
+      "location": "ანანურის ციხე",
+      "description": "იფრინე პარაპლანით ანანურის ტბის თავზე და მიიღე დაუვიწყარი შეგრძნებები",
+      "image_url": "https://tkt.ge/_next/image?url=https%3A%2F%2Fstatic.tkt.ge%2Fimg%2F386a8aec-3cea-402c-a118-b2ec4f11ecb0.jpeg&w=3840&q=75"
+    },
+    {
+      "id": 7,
+      "title": "დალევა",
+      "category": "პონტი",
+      "start_price": 10,
+      "end_price": 20,
+      "date": "2025-03-20",
+      "location": "ჩემთან სახლში, გლდანი, თბილისი",
+      "description": "დავდოთ ფული , გავიცნოთ ერთმანეთი და დავლიოთ სახელოვნად!!",
+      "image_url": "https://www.promises.com/wp-content/uploads/2017/07/How-Drinking-Ages-You.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "თბილისის სათავგადასავლო გარბენი",
+      "category": "სპორტი",
+      "start_price": 40,
+      "end_price": 50,
+      "date": "2025-03-25",
+      "location": "მთაწმინდის პარკი, თბილისი",
+      "description": "თბილისის სათავგადასავლო გარბენი ბრუნდება 2025 წლის ივენთით.",
+      "image_url": "https://tkt.ge/_next/image?url=https%3A%2F%2Fstatic.tkt.ge%2Fimg%2F4b6bf9ad-7e72-4c59-84f3-91abd7be18c5.jpeg&w=3840&q=75"
     }
   ]
 }
