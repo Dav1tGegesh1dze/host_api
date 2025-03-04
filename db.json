@@ -104,45 +104,6 @@
       "image_url": "https://tkt.ge/_next/image?url=https%3A%2F%2Fstatic.tkt.ge%2Fimg%2F4b6bf9ad-7e72-4c59-84f3-91abd7be18c5.jpeg&w=3840&q=75",
       "latitude": 41.727310,
       "longitude": 44.754230
-    },
-    {
-      "id": 9,
-      "title": "უცხოპლანეტელები:მცხეთელები",
-      "category": "სპორტი",
-      "start_price": 100,
-      "end_price": 200,
-      "date": "2025-06-10",
-      "location": "წალკა",
-      "description": "ერთა ლიგის პლეი ოფი",
-      "image_url": "https://m.media-amazon.com/images/I/71cUWPLil4L._SY385_.jpg",
-      "latitude": 41.699257, 
-      "longitude": 44.526913
-    },
-    {
-      "id": 10,
-      "title": "თოფურია - მახაჩევი",
-      "category": "სპორტი",
-      "start_price": 15,
-      "end_price": 220,
-      "date": "2025-05-20",
-      "location": "ხაშური",
-      "description": "UFC 319",
-      "image_url": "https://phantom-marca.unidadeditorial.es/3c26796137e2bb22cb4339b612367f87/resize/660/f/webp/assets/multimedia/imagenes/2024/10/07/17283174799498.jpg",
-      "latitude": 41.799237, 
-      "longitude": 44.927913
-    },
-    {
-      "id": 11,
-      "title": "ცხელი ძაღლი",
-      "category": "კინო",
-      "start_price": 15,
-      "end_price": 20,
-      "date": "2025-05-20",
-      "location": "თბილისი",
-      "description": "ცხელი ძაღლის გამორება კავეაში",
-      "image_url": "https://img.forum.ge/Joi7cijjiJ7Av.jpg",
-      "latitude": 41.599237, 
-      "longitude": 44.427913
-    },
+    }
   ]
 }
