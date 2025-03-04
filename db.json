@@ -21,9 +21,9 @@
       "start_price": 10,
       "end_price": 100,
       "date": "2025-04-10",
-      "location": "ვაზგენ სარქისიანის სტადიონი, ერევანი",
+      "location": "ერევანი",
       "description": "ერთა ლიგის პლეი ოფი",
-      "image_url": "https://sportall.ge/images/new_photo/2025/16-28FEB/1-nakrebi.jpg",
+      "image_url": "https://tkt.ge/_next/image?url=https%3A%2F%2Fstatic.tkt.ge%2Fimg%2Fc2e3f692-9c94-4467-94a4-67bcc9b80967.jpeg&w=3840&q=75",
       "latitude": 41.699237, 
       "longitude": 44.827913
     },
@@ -49,7 +49,7 @@
       "date": "2025-04-05",
       "location": "ჰოლუზეუმი, თბილისი",
       "description": "ილუზიების მუზეუმი",
-      "image_url": "https://tkt.ge/_next/image?url=https%3A%2F%2Fstatic.tkt.ge%2Fimg%2F7e972066-ba64-4235-94df-4bbfccff13b6&w=3840&q=750",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX8EF4R8i6bot11Wj3-_sVWJETTNgdQ6JANA&s",
       "latitude": 41.689452, 
       "longitude": 44.779035
     },
@@ -86,7 +86,7 @@
       "start_price": 10,
       "end_price": 20,
       "date": "2025-03-20",
-      "location": "ჩემთან სახლში, გლდანი, თბილისი",
+      "location": "გლდანი, თბილისი",
       "description": "დავდოთ ფული , გავიცნოთ ერთმანეთი და დავლიოთ სახელოვნად!!",
       "image_url": "https://www.promises.com/wp-content/uploads/2017/07/How-Drinking-Ages-You.jpeg",
       "latitude": 41.729920, 
@@ -104,6 +104,45 @@
       "image_url": "https://tkt.ge/_next/image?url=https%3A%2F%2Fstatic.tkt.ge%2Fimg%2F4b6bf9ad-7e72-4c59-84f3-91abd7be18c5.jpeg&w=3840&q=75",
       "latitude": 41.727310,
       "longitude": 44.754230
-    }
+    },
+    {
+      "id": 9,
+      "title": "უცხოპლანეტელები:მცხეთელები",
+      "category": "სპორტი",
+      "start_price": 100,
+      "end_price": 200,
+      "date": "2025-06-10",
+      "location": "წალკა",
+      "description": "ერთა ლიგის პლეი ოფი",
+      "image_url": "https://m.media-amazon.com/images/I/71cUWPLil4L._SY385_.jpg",
+      "latitude": 41.699257, 
+      "longitude": 44.526913
+    },
+    {
+      "id": 10,
+      "title": "თოფურია - მახაჩევი",
+      "category": "სპორტი",
+      "start_price": 15,
+      "end_price": 220,
+      "date": "2025-05-20",
+      "location": "ხაშური",
+      "description": "UFC 319",
+      "image_url": "https://phantom-marca.unidadeditorial.es/3c26796137e2bb22cb4339b612367f87/resize/660/f/webp/assets/multimedia/imagenes/2024/10/07/17283174799498.jpg",
+      "latitude": 41.799237, 
+      "longitude": 44.927913
+    },
+    {
+      "id": 11,
+      "title": "ცხელი ძაღლი",
+      "category": "კინო",
+      "start_price": 15,
+      "end_price": 20,
+      "date": "2025-05-20",
+      "location": "თბილისი",
+      "description": "ცხელი ძაღლის გამორება კავეაში",
+      "image_url": "https://img.forum.ge/Joi7cijjiJ7Av.jpg",
+      "latitude": 41.599237, 
+      "longitude": 44.427913
+    },
   ]
 }
