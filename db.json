@@ -104,6 +104,33 @@
       "image_url": "https://tkt.ge/_next/image?url=https%3A%2F%2Fstatic.tkt.ge%2Fimg%2F4b6bf9ad-7e72-4c59-84f3-91abd7be18c5.jpeg&w=3840&q=75",
       "latitude": 41.727310,
       "longitude": 44.754230
+    },
+    {
+      "id": 9,
+      "title": "უცხოპლანეტელები: მცხეთელები",
+      "category": "სპორტი",
+      "start_price": 80,
+      "end_price": 150,
+      "date": "2025-04-25",
+      "location": "წალკა",
+      "description": "დაპირისპირება უცხოებსა და ნაცნობებს შორის.",
+      "image_url": "https://i.etsystatic.com/31980536/r/il/0078e2/4889142737/il_1140xN.4889142737_mbes.jpg",
+      "latitude": 41.757310,
+      "longitude": 44.764230
+    },
+    {
+      "id": 10,
+      "title": "ცხელი ძაღლი",
+      "category": "კინო",
+      "start_price": 10,
+      "end_price": 30,
+      "date": "2025-03-20",
+      "location": "კავეა, თბილისი",
+      "description": "ცხელი ძაღლის განმეორებითი ჩვენება",
+      "image_url": "https://img.forum.ge/Joi7cijjiJ7Av.jpg",
+      "latitude": 41.727310,
+      "longitude": 44.754230
     }
   ]
 }
+https://img.forum.ge/Joi7cijjiJ7Av.jpg
