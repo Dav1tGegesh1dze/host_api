@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "123abc",
+    "name": {
+      "en": "Khachapuri House",
+      "ka": "ხაჭაპურის სახლი"
+    },
+    "categoryId": "georgian",
+    "categoryName": {
+      "en": "Georgian",
+      "ka": "ქართული"
+    },
+    "rating": 4.7,
+    "mainImage": "https://example.com/images/khachapuri-main.jpg",
+    "additionalImages": [
+      "https://example.com/images/khachapuri-interior1.jpg",
+      "https://example.com/images/khachapuri-interior2.jpg",
+      "https://example.com/images/khachapuri-dish1.jpg"
+    ],
+    "location": {
+      "address": {
+        "en": "15 Rustaveli Ave",
+        "ka": "რუსთაველის გამზირი 15"
+      },
+      "city": {
+        "en": "Tbilisi",
+        "ka": "თბილისი"
+      },
+      "coordinates": {
+        "latitude": 41.7151,
+        "longitude": 44.8271
+      }
+    },
+    "fullDescription": {
+      "en": "Established in 2005, our restaurant offers the most authentic Georgian dishes prepared with traditional recipes passed down through generations.",
+      "ka": "დაფუძნებული 2005 წელს, ჩვენი რესტორანი გთავაზობთ ყველაზე ავთენტურ ქართულ კერძებს, მომზადებულს ტრადიციული რეცეპტებით."
+    },
+    "menu": [
+      {
+        "categoryId": "starters",
+        "categoryName": {
+          "en": "Starters",
+          "ka": "ორცხობილები"
+        },
+        "dishes": [
+          {
+            "id": "dish123",
+            "name": {
+              "en": "Imeruli Khachapuri",
+              "ka": "იმერული ხაჭაპური"
+            },
+            "price": 15.0,
+            "ingredients": [
+              {
+                "en": "Dough",
+                "ka": "ცომი"
+              },
+              {
+                "en": "Imeruli Cheese",
+                "ka": "იმერული ყველი"
+              },
+              {
+                "en": "Butter",
+                "ka": "კარაქი"
+              }
+            ],
+            "deliveryTime": 20,
+            "image": "https://example.com/images/imeruli-khachapuri.jpg"
+          },
+          {
+            "id": "dish124",
+            "name": {
+              "en": "Adjarian Khachapuri",
+              "ka": "აჭარული ხაჭაპური"
+            },
+            "price": 18.0,
+            "ingredients": [
+              {
+                "en": "Dough",
+                "ka": "ცომი"
+              },
+              {
+                "en": "Cheese",
+                "ka": "ყველი"
+              },
+              {
+                "en": "Egg",
+                "ka": "კვერცხი"
+              },
+              {
+                "en": "Butter",
+                "ka": "კარაქი"
+              }
+            ],
+            "deliveryTime": 25,
+            "image": "https://example.com/images/adjarian-khachapuri.jpg"
+          },
+          {
+            "id": "dish125",
+            "name": {
+              "en": "Lobiani",
+              "ka": "ლობიანი"
+            },
+            "price": 12.0,
+            "ingredients": [
+              {
+                "en": "Dough",
+                "ka": "ცომი"
+              },
+              {
+                "en": "Kidney Beans",
+                "ka": "ლობიო"
+              },
+              {
+                "en": "Spices",
+                "ka": "სანელებლები"
+              }
+            ],
+            "deliveryTime": 18,
+            "image": "https://example.com/images/lobiani.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "456def",
+    "name": {
+      "en": "Sakura Sushi",
+      "ka": "საკურა სუში"
+    },
+    "categoryId": "japanese",
+    "categoryName": {
+      "en": "Japanese",
+      "ka": "იაპონური"
+    },
+    "rating": 4.8,
+    "mainImage": "https://example.com/images/sakura-main.jpg",
+    "additionalImages": [
+      "https://example.com/images/sakura-interior1.jpg",
+      "https://example.com/images/sakura-interior2.jpg",
+      "https://example.com/images/sakura-dish1.jpg"
+    ],
+    "location": {
+      "address": {
+        "en": "42 Cherry Blossom St",
+        "ka": "საკურას ქუჩა 42"
+      },
+      "city": {
+        "en": "Tokyo",
+        "ka": "ტოკიო"
+      },
+      "coordinates": {
+        "latitude": 35.6762,
+        "longitude": 139.6503
+      }
+    },
+    "fullDescription": {
+      "en": "A traditional sushi restaurant bringing authentic Japanese flavors with the freshest fish and ingredients imported daily from Tsukiji market.",
+      "ka": "ტრადიციული სუშის რესტორანი, რომელიც გთავაზობთ ავთენტურ იაპონურ გემოებს ყველაზე ახალი თევზით, რომელიც ყოველდღიურად შემოდის ცუკიჯის ბაზრიდან."
+    },
+    "menu": [
+      {
+        "categoryId": "sushi",
+        "categoryName": {
+          "en": "Sushi",
+          "ka": "სუში"
+        },
+        "dishes": [
+          {
+            "id": "dish201",
+            "name": {
+              "en": "Salmon Nigiri",
+              "ka": "ორაგულის ნიგირი"
+            },
+            "price": 8.0,
+            "ingredients": [
+              {
+                "en": "Salmon",
+                "ka": "ორაგული"
+              },
+              {
+                "en": "Rice",
+                "ka": "ბრინჯი"
+              },
+              {
+                "en": "Wasabi",
+                "ka": "ვასაბი"
+              }
+            ],
+            "deliveryTime": 15,
+            "image": "https://example.com/images/salmon-nigiri.jpg"
+          },
+          {
+            "id": "dish202",
+            "name": {
+              "en": "Dragon Roll",
+              "ka": "დრაკონის როლი"
+            },
+            "price": 22.0,
+            "ingredients": [
+              {
+                "en": "Eel",
+                "ka": "გველთევზა"
+              },
+              {
+                "en": "Avocado",
+                "ka": "ავოკადო"
+              },
+              {
+                "en": "Cucumber",
+                "ka": "კიტრი"
+              },
+              {
+                "en": "Tempura Shrimp",
+                "ka": "ტემპურა კრევეტი"
+              }
+            ],
+            "deliveryTime": 25,
+            "image": "https://example.com/images/dragon-roll.jpg"
+          },
+          {
+            "id": "dish203",
+            "name": {
+              "en": "Tuna Sashimi",
+              "ka": "თინუსის საშიმი"
+            },
+            "price": 18.0,
+            "ingredients": [
+              {
+                "en": "Bluefin Tuna",
+                "ka": "ლურჯფარფლიანი თინუსი"
+              },
+              {
+                "en": "Soy Sauce",
+                "ka": "სოიოს სოუსი"
+              }
+            ],
+            "deliveryTime": 10,
+            "image": "https://example.com/images/tuna-sashimi.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "789ghi",
+    "name": {
+      "en": "La Trattoria",
+      "ka": "ლა ტრატორია"
+    },
+    "categoryId": "italian",
+    "categoryName": {
+      "en": "Italian",
+      "ka": "იტალიური"
+    },
+    "rating": 4.6,
+    "mainImage": "https://example.com/images/trattoria-main.jpg",
+    "additionalImages": [
+      "https://example.com/images/trattoria-interior1.jpg",
+      "https://example.com/images/trattoria-interior2.jpg",
+      "https://example.com/images/trattoria-dish1.jpg"
+    ],
+    "location": {
+      "address": {
+        "en": "27 Roma Street",
+        "ka": "რომას ქუჩა 27"
+      },
+      "city": {
+        "en": "Rome",
+        "ka": "რომი"
+      },
+      "coordinates": {
+        "latitude": 41.9028,
+        "longitude": 12.4964
+      }
+    },
+    "fullDescription": {
+      "en": "Family-owned Italian restaurant serving traditional recipes from Naples with ingredients sourced directly from small Italian producers.",
+      "ka": "ოჯახური იტალიური რესტორანი, რომელიც გთავაზობთ ნეაპოლიტანურ ტრადიციულ რეცეპტებს, ინგრედიენტებით პირდაპირ იტალიელი მცირე მწარმოებლებისგან."
+    },
+    "menu": [
+      {
+        "categoryId": "pasta",
+        "categoryName": {
+          "en": "Pasta",
+          "ka": "პასტა"
+        },
+        "dishes": [
+          {
+            "id": "dish301",
+            "name": {
+              "en": "Spaghetti Carbonara",
+              "ka": "სპაგეტი კარბონარა"
+            },
+            "price": 16.0,
+            "ingredients": [
+              {
+                "en": "Spaghetti",
+                "ka": "სპაგეტი"
+              },
+              {
+                "en": "Egg",
+                "ka": "კვერცხი"
+              },
+              {
+                "en": "Pancetta",
+                "ka": "პანჩეტა"
+              },
+              {
+                "en": "Pecorino Romano",
+                "ka": "პეკორინო რომანო"
+              }
+            ],
+            "deliveryTime": 20,
+            "image": "https://example.com/images/carbonara.jpg"
+          },
+          {
+            "id": "dish302",
+            "name": {
+              "en": "Lasagna Bolognese",
+              "ka": "ლაზანია ბოლონეზე"
+            },
+            "price": 19.0,
+            "ingredients": [
+              {
+                "en": "Pasta Sheets",
+                "ka": "პასტის ფენები"
+              },
+              {
+                "en": "Beef Ragu",
+                "ka": "საქონლის რაგუ"
+              },
+              {
+                "en": "Bechamel",
+                "ka": "ბეშამელი"
+              },
+              {
+                "en": "Parmesan",
+                "ka": "პარმეზანი"
+              }
+            ],
+            "deliveryTime": 30,
+            "image": "https://example.com/images/lasagna.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "101jkl",
+    "name": {
+      "en": "Spice of India",
+      "ka": "ინდოეთის სანელებელი"
+    },
+    "categoryId": "indian",
+    "categoryName": {
+      "en": "Indian",
+      "ka": "ინდური"
+    },
+    "rating": 4.5,
+    "mainImage": "https://example.com/images/spice-india-main.jpg",
+    "additionalImages": [
+      "https://example.com/images/spice-india-interior1.jpg",
+      "https://example.com/images/spice-india-interior2.jpg",
+      "https://example.com/images/spice-india-dish1.jpg"
+    ],
+    "location": {
+      "address": {
+        "en": "84 Curry Lane",
+        "ka": "ქარის შესახვევი 84"
+      },
+      "city": {
+        "en": "Mumbai",
+        "ka": "მუმბაი"
+      },
+      "coordinates": {
+        "latitude": 19.0760,
+        "longitude": 72.8777
+      }
+    },
+    "fullDescription": {
+      "en": "Authentic North Indian cuisine featuring aromatic curries, tandoori specialties, and a wide variety of vegetarian options, all prepared with traditional spice blends.",
+      "ka": "ავთენტური ჩრდილოეთ ინდური სამზარეულო, სურნელოვანი ქარით, ტანდურის სპეციალიტეტებით და ვეგეტარიანული კერძების დიდი მრავალფეროვნებით, ყველა მომზადებული ტრადიციული სანელებლების ნარევით."
+    },
+    "menu": [
+      {
+        "categoryId": "curries",
+        "categoryName": {
+          "en": "Curries",
+          "ka": "ქარი"
+        },
+        "dishes": [
+          {
+            "id": "dish401",
+            "name": {
+              "en": "Butter Chicken",
+              "ka": "ქათამი კარაქში"
+            },
+            "price": 17.0,
+            "ingredients": [
+              {
+                "en": "Chicken",
+                "ka": "ქათამი"
+              },
+              {
+                "en": "Tomato",
+                "ka": "პომიდორი"
+              },
+              {
+                "en": "Butter",
+                "ka": "კარაქი"
+              },
+              {
+                "en": "Cream",
+                "ka": "ნაღები"
+              },
+              {
+                "en": "Spices",
+                "ka": "სანელებლები"
+              }
+            ],
+            "deliveryTime": 25,
+            "image": "https://example.com/images/butter-chicken.jpg"
+          },
+          {
+            "id": "dish402",
+            "name": {
+              "en": "Palak Paneer",
+              "ka": "პალაკ პანირი"
+            },
+            "price": 15.0,
+            "ingredients": [
+              {
+                "en": "Spinach",
+                "ka": "ისპანახი"
+              },
+              {
+                "en": "Cottage Cheese",
+                "ka": "ხაჭო"
+              },
+              {
+                "en": "Onion",
+                "ka": "ხახვი"
+              },
+              {
+                "en": "Spices",
+                "ka": "სანელებლები"
+              }
+            ],
+            "deliveryTime": 20,
+            "image": "https://example.com/images/palak-paneer.jpg"
+          },
+          {
+            "id": "dish403",
+            "name": {
+              "en": "Lamb Rogan Josh",
+              "ka": "ცხვრის როგან ჯოში"
+            },
+            "price": 19.0,
+            "ingredients": [
+              {
+                "en": "Lamb",
+                "ka": "ცხვარი"
+              },
+              {
+                "en": "Kashmiri Chilies",
+                "ka": "ქაშმირული წიწაკა"
+              },
+              {
+                "en": "Yogurt",
+                "ka": "მაწონი"
+              },
+              {
+                "en": "Spices",
+                "ka": "სანელებლები"
+              }
+            ],
+            "deliveryTime": 30,
+            "image": "https://example.com/images/rogan-josh.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "202mno",
+    "name": {
+      "en": "El Mariachi",
+      "ka": "ელ მარიაჩი"
+    },
+    "categoryId": "mexican",
+    "categoryName": {
+      "en": "Mexican",
+      "ka": "მექსიკური"
+    },
+    "rating": 4.4,
+    "mainImage": "https://example.com/images/mariachi-main.jpg",
+    "additionalImages": [
+      "https://example.com/images/mariachi-interior1.jpg",
+      "https://example.com/images/mariachi-interior2.jpg",
+      "https://example.com/images/mariachi-dish1.jpg"
+    ],
+    "location": {
+      "address": {
+        "en": "56 Taco Boulevard",
+        "ka": "ტაკოს ბულვარი 56"
+      },
+      "city": {
+        "en": "Mexico City",
+        "ka": "მეხიკო"
+      },
+      "coordinates": {
+        "latitude": 19.4326,
+        "longitude": -99.1332
+      }
+    },
+    "fullDescription": {
+      "en": "A vibrant Mexican cantina offering bold flavors from various regions of Mexico, featuring hand-pressed tortillas and house-made salsas prepared daily.",
+      "ka": "ცოცხალი მექსიკური კანტინა, რომელიც გთავაზობთ მკვეთრ გემოებს მექსიკის სხვადასხვა რეგიონიდან, ხელით დამზადებული ტორტილებით და სახლში მომზადებული სალსებით, რომლებიც ყოველდღიურად მზადდება."
+    },
+    "menu": [
+      {
+        "categoryId": "tacos",
+        "categoryName": {
+          "en": "Tacos",
+          "ka": "ტაკოები"
+        },
+        "dishes": [
+          {
+            "id": "dish501",
+            "name": {
+              "en": "Carnitas Tacos",
+              "ka": "კარნიტას ტაკოები"
+            },
+            "price": 14.0,
+            "ingredients": [
+              {
+                "en": "Slow-cooked Pork",
+                "ka": "ნელი ცეცხლზე მომზადებული ღორის ხორცი"
+              },
+              {
+                "en": "Corn Tortillas",
+                "ka": "სიმინდის ტორტილები"
+              },
+              {
+                "en": "Cilantro",
+                "ka": "ქინძი"
+              },
+              {
+                "en": "Onion",
+                "ka": "ხახვი"
+              },
+              {
+                "en": "Lime",
+                "ka": "ლაიმი"
+              }
+            ],
+            "deliveryTime": 18,
+            "image": "https://example.com/images/carnitas-tacos.jpg"
+          },
+          {
+            "id": "dish502",
+            "name": {
+              "en": "Chicken Mole Enchiladas",
+              "ka": "ქათმის მოლე ენჩილადები"
+            },
+            "price": 16.0,
+            "ingredients": [
+              {
+                "en": "Chicken",
+                "ka": "ქათამი"
+              },
+              {
+                "en": "Corn Tortillas",
+                "ka": "სიმინდის ტორტილები"
+              },
+              {
+                "en": "Mole Sauce",
+                "ka": "მოლეს სოუსი"
+              },
+              {
+                "en": "Cheese",
+                "ka": "ყველი"
+              },
+              {
+                "en": "Sesame Seeds",
+                "ka": "შირბახტის თესლი"
+              }
+            ],
+            "deliveryTime": 25,
+            "image": "https://example.com/images/mole-enchiladas.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "303pqr",
+    "name": {
+      "en": "Petit Paris",
+      "ka": "პატარა პარიზი"
+    },
+    "categoryId": "french",
+    "categoryName": {
+      "en": "French",
+      "ka": "ფრანგული"
+    },
+    "rating": 4.9,
+    "mainImage": "https://example.com/images/petit-paris-main.jpg",
+    "additionalImages": [
+      "https://example.com/images/petit-paris-interior1.jpg",
+      "https://example.com/images/petit-paris-interior2.jpg",
+      "https://example.com/images/petit-paris-dish1.jpg"
+    ],
+    "location": {
+      "address": {
+        "en": "12 Avenue des Champs-Élysées",
+        "ka": "შანზ-ელიზეს გამზირი 12"
+      },
+      "city": {
+        "en": "Paris",
+        "ka": "პარიზი"
+      },
+      "coordinates": {
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      }
+    },
+    "fullDescription": {
+      "en": "An elegant French bistro offering classical French cuisine with a modern twist, accompanied by an extensive wine list featuring selections from the finest vineyards of France.",
+      "ka": "ელეგანტური ფრანგული ბისტრო, რომელიც გთავაზობთ კლასიკურ ფრანგულ სამზარეულოს თანამედროვე ინტერპრეტაციით, თანხლებით ვრცელი ღვინის ჩამონათვალით, რომელიც წარმოადგენს საფრანგეთის საუკეთესო ვენახებიდან შერჩეულ ღვინოებს."
+    },
+    "menu": [
+      {
+        "categoryId": "main_courses",
+        "categoryName": {
+          "en": "Main Courses",
+          "ka": "მთავარი კერძები"
+        },
+        "dishes": [
+          {
+            "id": "dish601",
+            "name": {
+              "en": "Coq au Vin",
+              "ka": "კოკ ო ვენ"
+            },
+            "price": 24.0,
+            "ingredients": [
+              {
+                "en": "Chicken",
+                "ka": "ქათამი"
+              },
+              {
+                "en": "Red Wine",
+                "ka": "წითელი ღვინო"
+              },
+              {
+                "en": "Mushrooms",
+                "ka": "სოკო"
+              },
+              {
+                "en": "Bacon",
+                "ka": "ბეკონი"
+              },
+              {
+                "en": "Pearl Onions",
+                "ka": "მარგალიტის ხახვი"
+              }
+            ],
+            "deliveryTime": 35,
+            "image": "https://example.com/images/coq-au-vin.jpg"
+          },
+          {
+            "id": "dish602",
+            "name": {
+              "en": "Beef Bourguignon",
+              "ka": "საქონლის ხორცი ბურგუნდიულად"
+            },
+            "price": 26.0,
+            "ingredients": [
+              {
+                "en": "Beef",
+                "ka": "საქონლის ხორცი"
+              },
+              {
+                "en": "Red Wine",
+                "ka": "წითელი ღვინო"
+              },
+              {
+                "en": "Carrots",
+                "ka": "სტაფილო"
+              },
+              {
+                "en": "Mushrooms",
+                "ka": "სოკო"
+              },
+              {
+                "en": "Onions",
+                "ka": "ხახვი"
+              }
+            ],
+            "deliveryTime": 40,
+            "image": "https://example.com/images/beef-bourguignon.jpg"
+          },
+          {
+            "id": "dish603",
+            "name": {
+              "en": "Ratatouille",
+              "ka": "რატატული"
+            },
+            "price": 18.0,
+            "ingredients": [
+              {
+                "en": "Eggplant",
+                "ka": "ბადრიჯანი"
+              },
+              {
+                "en": "Zucchini",
+                "ka": "ყაბაყი"
+              },
+              {
+                "en": "Bell Peppers",
+                "ka": "ბულგარული წიწაკა"
+              },
+              {
+                "en": "Tomatoes",
+                "ka": "პომიდორი"
+              },
+              {
+                "en": "Herbs",
+                "ka": "მწვანილი"
+              }
+            ],
+            "deliveryTime": 30,
+            "image": "https://example.com/images/ratatouille.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "404stu",
+    "name": {
+      "en": "Dim Sum Palace",
+      "ka": "დიმ სამის სასახლე"
+    },
+    "categoryId": "chinese",
+    "categoryName": {
+      "en": "Chinese",
+      "ka": "ჩინური"
+    },
+    "rating": 4.7,
+    "mainImage": "https://example.com/images/dimsum-main.jpg",
+    "additionalImages": [
+      "https://example.com/images/dimsum-interior1.jpg",
+      "https://example.com/images/dimsum-interior2.jpg",
+      "https://example.com/images/dimsum-dish1.jpg"
+    ],
+    "location": {
+      "address": {
+        "en": "88 Lucky Dragon Street",
+        "ka": "იღბლიანი დრაკონის ქუჩა 88"
+      },
+      "city": {
+        "en": "Hong Kong",
+        "ka": "ჰონგ კონგი"
+      },
+      "coordinates": {
+        "latitude": 22.3193,
+        "longitude": 114.1694
+      }
+    },
+    "fullDescription": {
+      "en": "An authentic Cantonese dim sum restaurant offering a wide variety of delicate dumplings, buns, and small plates prepared following century-old recipes by master chefs from Guangzhou.",
+      "ka": "ავთენტური კანტონური დიმ სამის რესტორანი, რომელიც გთავაზობთ ნაზი პელმენების, ფუნთუშების და პატარა თეფშების ფართო არჩევანს, მომზადებულს საუკუნოვანი რეცეპტებით გუანჯოუდან მოსული შეფ-მზარეულების მიერ."
+    },
+    "menu": [
+      {
+        "categoryId": "dim_sum",
+        "categoryName": {
+          "en": "Dim Sum",
+          "ka": "დიმ სამი"
+        },
+        "dishes": [
+          {
+            "id": "dish701",
+            "name": {
+              "en": "Har Gow",
+              "ka": "ჰარ გაუ"
+            },
+            "price": 8.0,
+            "ingredients": [
+              {
+                "en": "Shrimp",
+                "ka": "კრევეტი"
+              },
+              {
+                "en": "Bamboo Shoots",
+                "ka": "ბამბუკის ყლორტები"
+              },
+              {
+                "en": "Rice Flour Wrapper",
+                "ka": "ბრინჯის ფქვილის გარსი"
+              }
+            ],
+            "deliveryTime": 15,
+            "image": "https://example.com/images/har-gow.jpg"
+          },
+          {
+            "id": "dish702",
+            "name": {
+              "en": "Siu Mai",
+              "ka": "სიუ მაი"
+            },
+            "price": 7.0,
+            "ingredients": [
+              {
+                "en": "Pork",
+                "ka": "ღორის ხორცი"
+              },
+              {
+                "en": "Shrimp",
+                "ka": "კრევეტი"
+              },
+              {
+                "en": "Mushrooms",
+                "ka": "სოკო"
+              },
+              {
+                "en": "Wonton Wrapper",
+                "ka": "ვონტონის გარსი"
+              }
+            ],
+            "deliveryTime": 15,
+            "image": "https://example.com/images/siu-mai.jpg"
+          },
+          {
+            "id": "dish703",
+            "name": {
+              "en": "Char Siu Bao",
+              "ka": "ჩარ სიუ ბაო"
+            },
+            "price": 6.0,
+            "ingredients": [
+              {
+                "en": "BBQ Pork",
+                "ka": "ბარბექიუ ღორის ხორცი"
+              },
+              {
+                "en": "Steamed Bun",
+                "ka": "ორთქლზე მომზადებული ფუნთუშა"
+              },
+              {
+                "en": "Oyster Sauce",
+                "ka": "ხამანწკების სოუსი"
+              },
+              {
+                "en": "Sugar",
+                "ka": "შაქარი"
+              }
+            ],
+            "deliveryTime": 18,
+            "image": "https://example.com/images/char-siu-bao.jpg"
+          },
+          {
+            "id": "dish704",
+            "name": {
+              "en": "Cheung Fun",
+              "ka": "ჩეუნგ ფუნი"
+            },
+            "price": 9.0,
+            "ingredients": [
+              {
+                "en": "Rice Noodle Roll",
+                "ka": "ბრინჯის ატრიის რულეტი"
+              },
+              {
+                "en": "Shrimp or Beef",
+                "ka": "კრევეტი ან საქონლის ხორცი"
+              },
+              {
+                "en": "Soy Sauce",
+                "ka": "სოიოს სოუსი"
+              }
+            ],
+            "deliveryTime": 20,
+            "image": "https://example.com/images/cheung-fun.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "505vwx",
+    "name": {
+      "en": "Souvlaki Street",
+      "ka": "სუვლაკის ქუჩა"
+    },
+    "categoryId": "greek",
+    "categoryName": {
+      "en": "Greek",
+      "ka": "ბერძნული"
+    },
+    "rating": 4.6,
+    "mainImage": "https://example.com/images/souvlaki-main.jpg",
+    "additionalImages": [
+      "https://example.com/images/souvlaki-interior1.jpg",
+      "https://example.com/images/souvlaki-interior2.jpg",
+      "https://example.com/images/souvlaki-dish1.jpg"
+    ],
+    "location": {
+      "address": {
+        "en": "29 Acropolis Road",
+        "ka": "აკროპოლისის გზა 29"
+      },
+      "city": {
+        "en": "Athens",
+        "ka": "ათენი"
+      },
+      "coordinates": {
+        "latitude": 37.9838,
+        "longitude": 23.7275
+      }
+    },
+    "fullDescription": {
+      "en": "A lively Greek taverna bringing the flavors of Mediterranean cuisine with authentic recipes featuring olive oil, fresh vegetables, and tender grilled meats.",
+      "ka": "მხიარული ბერძნული ტავერნა, რომელიც გთავაზობთ ხმელთაშუა ზღვის სამზარეულოს გემოებს ავთენტური რეცეპტებით, რომლებიც მოიცავს ზეითუნის ზეთს, ახალ ბოსტნეულსა და ნაზად შემწვარ ხორცს."
+    },
+    "menu": [
+      {
+        "categoryId": "meze",
+        "categoryName": {
+          "en": "Meze",
+          "ka": "მეზე"
+        },
+        "dishes": [
+          {
+            "id": "dish801",
+            "name": {
+              "en": "Pork Souvlaki",
+              "ka": "ღორის სუვლაკი"
+            },
+            "price": 14.0,
+            "ingredients": [
+              {
+                "en": "Pork",
+                "ka": "ღორის ხორცი"
+              },
+              {
+                "en": "Olive Oil",
+                "ka": "ზეითუნის ზეთი"
+              },
+              {
+                "en": "Lemon",
+                "ka": "ლიმონი"
+              },
+              {
+                "en": "Oregano",
+                "ka": "ორეგანო"
+              },
+              {
+                "en": "Pita Bread",
+                "ka": "პიტის პური"
+              }
+            ],
+            "deliveryTime": 20,
+            "image": "https://example.com/images/pork-souvlaki.jpg"
+          },
+          {
+            "id": "dish802",
+            "name": {
+              "en": "Moussaka",
+              "ka": "მუსაკა"
+            },
+            "price": 16.0,
+            "ingredients": [
+              {
+                "en": "Eggplant",
+                "ka": "ბადრიჯანი"
+              },
+              {
+                "en": "Potato",
+                "ka": "კარტოფილი"
+              },
+              {
+                "en": "Ground Beef",
+                "ka": "დაფქული საქონლის ხორცი"
+              },
+              {
+                "en": "Bechamel Sauce",
+                "ka": "ბეშამელის სოუსი"
+              },
+              {
+                "en": "Tomato Sauce",
+                "ka": "პომიდვრის სოუსი"
+              }
+            ],
+            "deliveryTime": 30,
+            "image": "https://example.com/images/moussaka.jpg"
+          },
+          {
+            "id": "dish803",
+            "name": {
+              "en": "Greek Salad",
+              "ka": "ბერძნული სალათი"
+            },
+            "price": 10.0,
+            "ingredients": [
+              {
+                "en": "Cucumber",
+                "ka": "კიტრი"
+              },
+              {
+                "en": "Tomato",
+                "ka": "პომიდორი"
+              },
+              {
+                "en": "Onion",
+                "ka": "ხახვი"
+              },
+              {
+                "en": "Feta Cheese",
+                "ka": "ფეტა ყველი"
+              },
+              {
+                "en": "Olives",
+                "ka": "ზეთისხილი"
+              },
+              {
+                "en": "Olive Oil",
+                "ka": "ზეითუნის ზეთი"
+              }
+            ],
+            "deliveryTime": 15,
+            "image": "https://example.com/images/greek-salad.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]
