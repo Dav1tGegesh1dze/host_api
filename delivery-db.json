@@ -11,7 +11,7 @@
       "ka": "ქართული"
     },
     "rating": 4.7,
-    "mainImage": "https://example.com/images/khachapuri-main.jpg",
+    "mainImage": "https://imageproxy.wolt.com/assets/67063c00a7eb5c5d5a8131fe?w=600",
     "additionalImages": [
       "https://example.com/images/khachapuri-interior1.jpg",
       "https://example.com/images/khachapuri-interior2.jpg",
@@ -65,7 +65,7 @@
               }
             ],
             "deliveryTime": 20,
-            "image": "https://example.com/images/imeruli-khachapuri.jpg"
+            "image": "https://imageproxy.wolt.com/assets/67063aaab09c6306e7b4a6dd?w=600"
           },
           {
             "id": "dish124",
@@ -93,7 +93,7 @@
               }
             ],
             "deliveryTime": 25,
-            "image": "https://example.com/images/adjarian-khachapuri.jpg"
+            "image": "https://imageproxy.wolt.com/assets/67063c00a7eb5c5d5a8131fe?w=600"
           },
           {
             "id": "dish125",
@@ -117,7 +117,7 @@
               }
             ],
             "deliveryTime": 18,
-            "image": "https://example.com/images/lobiani.jpg"
+            "image": "https://imageproxy.wolt.com/assets/67063e3235b6997fcf830e2d?w=600"
           }
         ]
       }
@@ -135,7 +135,7 @@
       "ka": "იაპონური"
     },
     "rating": 4.8,
-    "mainImage": "https://example.com/images/sakura-main.jpg",
+    "mainImage": "https://imageproxy.wolt.com/menu/menu-images/5be163e542553d000abc816b/fbc99218-f4fe-11ea-b6d9-ca42683ecf1d________________.jpeg?w=600",
     "additionalImages": [
       "https://example.com/images/sakura-interior1.jpg",
       "https://example.com/images/sakura-interior2.jpg",
@@ -189,7 +189,7 @@
               }
             ],
             "deliveryTime": 15,
-            "image": "https://example.com/images/salmon-nigiri.jpg"
+            "image": "https://imageproxy.wolt.com/menu/menu-images/5be163e542553d000abc816b/5e2cb9ec-0cad-11eb-a59f-62320a1fe915___________.jpeg?w=600"
           },
           {
             "id": "dish202",
@@ -217,7 +217,7 @@
               }
             ],
             "deliveryTime": 25,
-            "image": "https://example.com/images/dragon-roll.jpg"
+            "image": "https://imageproxy.wolt.com/menu/menu-images/5be163e542553d000abc816b/3e39462c-f4f3-11ea-9108-a664962ed4dc_____________.jpeg?w=600"
           },
           {
             "id": "dish203",
@@ -237,7 +237,7 @@
               }
             ],
             "deliveryTime": 10,
-            "image": "https://example.com/images/tuna-sashimi.jpg"
+            "image": "https://imageproxy.wolt.com/menu/menu-images/5be163e542553d000abc816b/fab703b4-ee0b-11ea-bfaa-4e3a27140271____________.jpeg?w=600"
           }
         ]
       }
@@ -255,7 +255,7 @@
       "ka": "იტალიური"
     },
     "rating": 4.6,
-    "mainImage": "https://example.com/images/trattoria-main.jpg",
+    "mainImage": "https://scontent.ftbs4-2.fna.fbcdn.net/v/t39.30808-6/466964640_598241046205836_6017488637259534033_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=QQiTiTs0RLgQ7kNvwEOIYWj&_nc_oc=AdnqCyPL-UUQa6oaJQHy32YDtVcEBT-hhI_QpQWk2nXMibljtUgfUuLLImryaVrrJrI&_nc_zt=23&_nc_ht=scontent.ftbs4-2.fna&_nc_gid=vl8OHMMgMIbfmQQqpEBI9w&oh=00_AfGIqMfklNAWGAqz1170D3GL2SePZKSso4BN-NenEziRNw&oe=67F9F2BB",
     "additionalImages": [
       "https://example.com/images/trattoria-interior1.jpg",
       "https://example.com/images/trattoria-interior2.jpg",
@@ -313,7 +313,7 @@
               }
             ],
             "deliveryTime": 20,
-            "image": "https://example.com/images/carbonara.jpg"
+            "image": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-jumbo-v2.jpg?quality=75&auto=webp"
           },
           {
             "id": "dish302",
@@ -341,7 +341,7 @@
               }
             ],
             "deliveryTime": 30,
-            "image": "https://example.com/images/lasagna.jpg"
+            "image": "https://assets.bonappetit.com/photos/57adf3c353e63daf11a4dfa2/master/w_960,c_limit/lasagna-bolognese.jpg"
           }
         ]
       }
@@ -359,7 +359,7 @@
       "ka": "ინდური"
     },
     "rating": 4.5,
-    "mainImage": "https://example.com/images/spice-india-main.jpg",
+    "mainImage": "https://www.spiceof-india.com/assets/img/about/about.png",
     "additionalImages": [
       "https://example.com/images/spice-india-interior1.jpg",
       "https://example.com/images/spice-india-interior2.jpg",
@@ -421,7 +421,7 @@
               }
             ],
             "deliveryTime": 25,
-            "image": "https://example.com/images/butter-chicken.jpg"
+            "image": "https://gastronomia.ge/wp-content/uploads/2019/11/1-5.jpg"
           },
           {
             "id": "dish402",
@@ -449,7 +449,7 @@
               }
             ],
             "deliveryTime": 20,
-            "image": "https://example.com/images/palak-paneer.jpg"
+            "image": "https://www.cookwithmanali.com/wp-content/uploads/2019/08/Palak-Paneer.jpg"
           },
           {
             "id": "dish403",
@@ -477,7 +477,7 @@
               }
             ],
             "deliveryTime": 30,
-            "image": "https://example.com/images/rogan-josh.jpg"
+            "image": "https://www.recipetineats.com/tachyon/2020/02/Rogan-Josh_4.jpg?resize=900%2C1260&zoom=0.72"
           }
         ]
       }
@@ -495,7 +495,7 @@
       "ka": "მექსიკური"
     },
     "rating": 4.4,
-    "mainImage": "https://example.com/images/mariachi-main.jpg",
+    "mainImage": "https://scontent.ftbs4-2.fna.fbcdn.net/v/t39.30808-6/275305391_359838162815889_4121915592131045097_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=SzhVEWZIXJEQ7kNvwHq6igA&_nc_oc=AdnV6jKlj_VxkOb5R-wHOPmDvRsFjROxtq-xvZ0oiJItNQ3bqQ9BNVJ-Ulmjk7onpgg&_nc_zt=23&_nc_ht=scontent.ftbs4-2.fna&_nc_gid=OOBzUsAxzbuSkVYYwUQKwA&oh=00_AfHW8Fabxfs-XXaEe8rtQcZykba4iibeVKXjNkGlekn-aA&oe=67FA13DB",
     "additionalImages": [
       "https://example.com/images/mariachi-interior1.jpg",
       "https://example.com/images/mariachi-interior2.jpg",
@@ -557,7 +557,7 @@
               }
             ],
             "deliveryTime": 18,
-            "image": "https://example.com/images/carnitas-tacos.jpg"
+            "image": "https://www.onceuponachef.com/images/2023/08/Beef-Tacos-760x570.jpg"
           },
           {
             "id": "dish502",
@@ -589,7 +589,7 @@
               }
             ],
             "deliveryTime": 25,
-            "image": "https://example.com/images/mole-enchiladas.jpg"
+            "image": "https://images.themodernproper.com/production/posts/2016/Simple-Chicken-Mole-Enchiladas-14.jpg?w=600&q=82&auto=format&fit=crop&dm=1599771361&s=950cedd60dbab68981c58b87fd6daecd"
           }
         ]
       }
@@ -607,7 +607,7 @@
       "ka": "ფრანგული"
     },
     "rating": 4.9,
-    "mainImage": "https://example.com/images/petit-paris-main.jpg",
+    "mainImage": "https://lh3.googleusercontent.com/gps-cs-s/AB5caB_tr5ig8csNjYW78NdDnQ14Bi7Ye8jqUPw5cmtSsZlv6l7TTELaa-wXK_tM3tZOlBRtQ2vw227V1_q0gdYsVcuz5OYS8Hm3cd5Ndm0VfBi_hk4wCfqPzwvwVsd5YsDQ1_jiGXH9=s680-w680-h510",
     "additionalImages": [
       "https://example.com/images/petit-paris-interior1.jpg",
       "https://example.com/images/petit-paris-interior2.jpg",
@@ -669,7 +669,7 @@
               }
             ],
             "deliveryTime": 35,
-            "image": "https://example.com/images/coq-au-vin.jpg"
+            "image": "https://static01.nyt.com/images/2023/08/24/multimedia/MC-Coq-Au-Van-ctpm/MC-Coq-Au-Van-ctpm-jumbo.jpg?quality=75&auto=webp"
           },
           {
             "id": "dish602",
@@ -701,7 +701,7 @@
               }
             ],
             "deliveryTime": 40,
-            "image": "https://example.com/images/beef-bourguignon.jpg"
+            "image": "https://www.recipetineats.com/beef-bourguignon-beef-burgundy/"
           },
           {
             "id": "dish603",
@@ -733,7 +733,7 @@
               }
             ],
             "deliveryTime": 30,
-            "image": "https://example.com/images/ratatouille.jpg"
+            "image": "https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg"
           }
         ]
       }
@@ -751,7 +751,7 @@
       "ka": "ჩინური"
     },
     "rating": 4.7,
-    "mainImage": "https://example.com/images/dimsum-main.jpg",
+    "mainImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/10/b3/ee/awesome-food.jpg?w=1000&h=-1&s=1",
     "additionalImages": [
       "https://example.com/images/dimsum-interior1.jpg",
       "https://example.com/images/dimsum-interior2.jpg",
@@ -805,7 +805,7 @@
               }
             ],
             "deliveryTime": 15,
-            "image": "https://example.com/images/har-gow.jpg"
+            "image": "https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/prawnporkandvegetabl_88714_16x9.jpg"
           },
           {
             "id": "dish702",
@@ -833,7 +833,7 @@
               }
             ],
             "deliveryTime": 15,
-            "image": "https://example.com/images/siu-mai.jpg"
+            "image": "https://www.recipetineats.com/tachyon/2020/02/Siu-Mai_Chinese-steamed-dumplings_0.jpg?resize=900%2C1260&zoom=0.72"
           },
           {
             "id": "dish703",
@@ -861,7 +861,7 @@
               }
             ],
             "deliveryTime": 18,
-            "image": "https://example.com/images/char-siu-bao.jpg"
+            "image": "https://rasamalaysia.com/wp-content/uploads/2019/04/char-siu-bao2.jpg"
           },
           {
             "id": "dish704",
@@ -885,7 +885,7 @@
               }
             ],
             "deliveryTime": 20,
-            "image": "https://example.com/images/cheung-fun.jpg"
+            "image": "https://cicili.tv/wp-content/uploads/2022/03/Shrimp-Cheung-Fun-Pic-Small1-1024x682.jpeg"
           }
         ]
       }
@@ -903,7 +903,7 @@
       "ka": "ბერძნული"
     },
     "rating": 4.6,
-    "mainImage": "https://example.com/images/souvlaki-main.jpg",
+    "mainImage": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/blogs/33965/images/mFFfqQeLTjKJRfqYTzeo_Souvlaki_thumb_kajabi.jpg",
     "additionalImages": [
       "https://example.com/images/souvlaki-interior1.jpg",
       "https://example.com/images/souvlaki-interior2.jpg",
@@ -965,7 +965,7 @@
               }
             ],
             "deliveryTime": 20,
-            "image": "https://example.com/images/pork-souvlaki.jpg"
+            "image": "https://www.seriouseats.com/thmb/cqxfwvgQ9cUO7lwesTljprhEAnA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__20090319-pork-souvlaki-9a80ec7534d3427c888d2d0f939540a6.jpg"
           },
           {
             "id": "dish802",
@@ -997,7 +997,7 @@
               }
             ],
             "deliveryTime": 30,
-            "image": "https://example.com/images/moussaka.jpg"
+            "image": "https://www.recipetineats.com/tachyon/2020/11/Greek-Moussaka_3-re-edited.jpg?resize=900%2C1125&zoom=0.72"
           },
           {
             "id": "dish803",
@@ -1033,7 +1033,7 @@
               }
             ],
             "deliveryTime": 15,
-            "image": "https://example.com/images/greek-salad.jpg"
+            "image": "https://cdn.loveandlemons.com/wp-content/uploads/2019/07/greek-salad-2.jpg"
           }
         ]
       }
