@@ -1044,7 +1044,275 @@
             "image": "https://cdn.loveandlemons.com/wp-content/uploads/2019/07/greek-salad-2.jpg"
           }
         ]
+        }
+    ]
+  }
+,
+  {
+    "id": "606yzA",
+    "name": {
+      "en": "McDonald's",
+      "ka": "მაკდონალდსი"
+    },
+     "categoryId": "fast_food",
+    "categoryName": {
+      "en": "Fast Food",
+      "ka": "სწრაფი კვება"
+    },
+    "categoryImage": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/16:9/w_2560%2Cc_limit/Smashburger-recipe-120219.jpg",
+    "rating": 4.2,
+    "mainImage": "https://www.mcdonalds.com/content/dam/sites/usa/nfl/publication/1PUB_McDelivery_v4_750x536.jpg",
+    "additionalImages": [
+      "https://example.com/images/mcdonalds-interior1.jpg",
+      "https://example.com/images/mcdonalds-interior2.jpg",
+      "https://example.com/images/mcdonalds-dish1.jpg"
+    ],
+    "location": {
+      "address": {
+        "en": "42 Golden Arch Street",
+        "ka": "ოქროს თაღის ქუჩა 42"
+      },
+      "city": {
+        "en": "Tbilisi",
+        "ka": "თბილისი"
+      },
+      "coordinates": {
+        "latitude": 41.7151,
+        "longitude": 44.8271
+      }
+    },
+    "fullDescription": {
+      "en": "The world-famous fast-food chain offering burgers, fries, and other classic American fast food in a quick-service environment.",
+      "ka": "მსოფლიოში ცნობილი სწრაფი კვების ქსელი, რომელიც გთავაზობთ ბურგერებს, კარტოფილ ფრის და სხვა კლასიკურ ამერიკულ სწრაფ საკვებს სწრაფი მომსახურების გარემოში."
+    },
+    "menu": [
+      {
+        "categoryId": "burgers",
+        "categoryName": {
+          "en": "Burgers",
+          "ka": "ბურგერები"
+        },
+        "dishes": [
+          {
+            "id": "dish901",
+            "name": {
+              "en": "Big Mac",
+              "ka": "ბიგ მაკი"
+            },
+            "price": 8.0,
+            "ingredients": [
+              {
+                "en": "Beef Patty",
+                "ka": "საქონლის ხორცის კოტლეტი"
+              },
+              {
+                "en": "Special Sauce",
+                "ka": "სპეციალური სოუსი"
+              },
+              {
+                "en": "Lettuce",
+                "ka": "სალათის ფურცელი"
+              },
+              {
+                "en": "Cheese",
+                "ka": "ყველი"
+              },
+              {
+                "en": "Pickles",
+                "ka": "კიტრის მწნილი"
+              },
+              {
+                "en": "Onions",
+                "ka": "ხახვი"
+              }
+            ],
+            "deliveryTime": 10,
+            "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202006_0003_BigMac_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+          },
+          {
+            "id": "dish902",
+            "name": {
+              "en": "McChicken",
+              "ka": "მაკჩიკენი"
+            },
+            "price": 6.0,
+            "ingredients": [
+              {
+                "en": "Chicken Patty",
+                "ka": "ქათმის კოტლეტი"
+              },
+              {
+                "en": "Mayonnaise",
+                "ka": "მაიონეზი"
+              },
+              {
+                "en": "Lettuce",
+                "ka": "სალათის ფურცელი"
+              }
+            ],
+            "deliveryTime": 10,
+            "image": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-McChicken-1:product-header-desktop?wid=830&hei=456&dpr=off"
+          },
+          {
+            "id": "dish903",
+            "name": {
+              "en": "French Fries",
+              "ka": "ფრენჩ ფრაი"
+            },
+            "price": 4.0,
+            "ingredients": [
+              {
+                "en": "Potatoes",
+                "ka": "კარტოფილი"
+              },
+              {
+                "en": "Salt",
+                "ka": "მარილი"
+              },
+              {
+                "en": "Vegetable Oil",
+                "ka": "მცენარეული ზეთი"
+              }
+            ],
+            "deliveryTime": 5,
+            "image": "https://s7d1.scene7.com/is/image/mcdonalds/FF:product-header-desktop?wid=830&hei=456&dpr=off"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "707BcD",
+    "name": {
+      "en": "Domino's Pizza",
+      "ka": "დომინოს პიცა"
+    },
+    "categoryId": "fast_food",
+    "categoryName": {
+      "en": "Fast Food",
+      "ka": "სწრაფი კვება"
+    },
+    "categoryImage": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/16:9/w_2560%2Cc_limit/Smashburger-recipe-120219.jpg",
+    "rating": 4.3,
+    "mainImage": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-12/Dominos.jpg",
+    "additionalImages": [
+      "https://example.com/images/dominos-interior1.jpg",
+      "https://example.com/images/dominos-interior2.jpg",
+      "https://example.com/images/dominos-dish1.jpg"
+    ],
+    "location": {
+      "address": {
+        "en": "15 Pizza Boulevard",
+        "ka": "პიცის ბულვარი 15"
+      },
+      "city": {
+        "en": "Tbilisi",
+        "ka": "თბილისი"
+      },
+      "coordinates": {
+        "latitude": 41.7231,
+        "longitude": 44.8201
+      }
+    },
+    "fullDescription": {
+      "en": "A popular pizza delivery chain offering a variety of pizzas, sides, and desserts with quick delivery service and custom ordering options.",
+      "ka": "პოპულარული პიცის მიტანის ქსელი, რომელიც გთავაზობთ სხვადასხვა სახის პიცებს, გარნირებს და დესერტებს სწრაფი მიტანის სერვისით და შეკვეთის მორგების შესაძლებლობებით."
+    },
+    "menu": [
+      {
+        "categoryId": "pizzas",
+        "categoryName": {
+          "en": "Pizzas",
+          "ka": "პიცები"
+        },
+        "dishes": [
+          {
+            "id": "dish1001",
+            "name": {
+              "en": "Pepperoni Pizza",
+              "ka": "პეპერონის პიცა"
+            },
+            "price": 14.0,
+            "ingredients": [
+              {
+                "en": "Pizza Dough",
+                "ka": "პიცის ცომი"
+              },
+              {
+                "en": "Tomato Sauce",
+                "ka": "პომიდვრის სოუსი"
+              },
+              {
+                "en": "Mozzarella Cheese",
+                "ka": "მოცარელას ყველი"
+              },
+              {
+                "en": "Pepperoni",
+                "ka": "პეპერონი"
+              }
+            ],
+            "deliveryTime": 25,
+            "image": "https://cache.dominos.com/olo/6_111_2/assets/build/market/US/_en/images/img/products/larges/S_PIZPX.jpg"
+          },
+          {
+            "id": "dish1002",
+            "name": {
+              "en": "Hawaiian Pizza",
+              "ka": "ჰავაიური პიცა"
+            },
+            "price": 15.0,
+            "ingredients": [
+              {
+                "en": "Pizza Dough",
+                "ka": "პიცის ცომი"
+              },
+              {
+                "en": "Tomato Sauce",
+                "ka": "პომიდვრის სოუსი"
+              },
+              {
+                "en": "Mozzarella Cheese",
+                "ka": "მოცარელას ყველი"
+              },
+              {
+                "en": "Ham",
+                "ka": "ლორი"
+              },
+              {
+                "en": "Pineapple",
+                "ka": "ანანასი"
+              }
+            ],
+            "deliveryTime": 25,
+            "image": "https://cache.dominos.com/olo/6_111_2/assets/build/market/US/_en/images/img/products/larges/S_PIZUH.jpg"
+          },
+          {
+            "id": "dish1003",
+            "name": {
+              "en": "Chicken Wings",
+              "ka": "ქათმის ფრთები"
+            },
+            "price": 10.0,
+            "ingredients": [
+              {
+                "en": "Chicken Wings",
+                "ka": "ქათმის ფრთები"
+              },
+              {
+                "en": "BBQ Sauce",
+                "ka": "ბარბექიუს სოუსი"
+              },
+              {
+                "en": "Spices",
+                "ka": "სანელებლები"
+              }
+            ],
+            "deliveryTime": 20,
+            "image": "https://cache.dominos.com/olo/6_111_2/assets/build/market/US/_en/images/img/products/larges/S_BONELESS.jpg"
+          }
+        ]
       }
     ]
   }
 ]
+      
