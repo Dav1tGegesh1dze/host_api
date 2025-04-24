@@ -258,7 +258,7 @@
     },
     "categoryImage": "https://d2lswn7b0fl4u2.cloudfront.net/photos/pg-italian-dishes-1645372086.jpg",
     "rating": 4.6,
-    "mainImage": "https://scontent.ftbs4-2.fna.fbcdn.net/v/t39.30808-6/466964640_598241046205836_6017488637259534033_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=QQiTiTs0RLgQ7kNvwEOIYWj&_nc_oc=AdnqCyPL-UUQa6oaJQHy32YDtVcEBT-hhI_QpQWk2nXMibljtUgfUuLLImryaVrrJrI&_nc_zt=23&_nc_ht=scontent.ftbs4-2.fna&_nc_gid=vl8OHMMgMIbfmQQqpEBI9w&oh=00_AfGIqMfklNAWGAqz1170D3GL2SePZKSso4BN-NenEziRNw&oe=67F9F2BB",
+    "mainImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/f2/bd/9e/per-condividere.jpg?w=1000&h=-1&s=1",
     "additionalImages": [
       "https://example.com/images/trattoria-interior1.jpg",
       "https://example.com/images/trattoria-interior2.jpg",
@@ -500,7 +500,7 @@
     },
     "categoryImage": "https://tildaricelive.s3.eu-central-1.amazonaws.com/wp-content/uploads/2023/09/07153630/shutterstock_2159819653.jpg",
     "rating": 4.4,
-    "mainImage": "https://scontent.ftbs4-2.fna.fbcdn.net/v/t39.30808-6/275305391_359838162815889_4121915592131045097_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=SzhVEWZIXJEQ7kNvwHq6igA&_nc_oc=AdnV6jKlj_VxkOb5R-wHOPmDvRsFjROxtq-xvZ0oiJItNQ3bqQ9BNVJ-Ulmjk7onpgg&_nc_zt=23&_nc_ht=scontent.ftbs4-2.fna&_nc_gid=OOBzUsAxzbuSkVYYwUQKwA&oh=00_AfHW8Fabxfs-XXaEe8rtQcZykba4iibeVKXjNkGlekn-aA&oe=67FA13DB",
+    "mainImage": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/35/3c/55/consistently-great-mexican.jpg?w=1000&h=-1&s=1",
     "additionalImages": [
       "https://example.com/images/mariachi-interior1.jpg",
       "https://example.com/images/mariachi-interior2.jpg",
@@ -1061,7 +1061,7 @@
     },
     "categoryImage": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/16:9/w_2560%2Cc_limit/Smashburger-recipe-120219.jpg",
     "rating": 4.2,
-    "mainImage": "https://www.mcdonalds.com/content/dam/sites/usa/nfl/publication/1PUB_McDelivery_v4_750x536.jpg",
+    "mainImage": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202307_8936_EVM_M_BigMac_Coke_1564x1564?wid=1000&hei=1000&dpr=off",
     "additionalImages": [
       "https://example.com/images/mcdonalds-interior1.jpg",
       "https://example.com/images/mcdonalds-interior2.jpg",
@@ -1127,7 +1127,7 @@
               }
             ],
             "deliveryTime": 10,
-            "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202006_0003_BigMac_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+            "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202302_0005-999_BigMac_1564x1564-1?wid=1000&hei=1000&dpr=off"
           },
           {
             "id": "dish902",
@@ -1151,7 +1151,7 @@
               }
             ],
             "deliveryTime": 10,
-            "image": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-McChicken-1:product-header-desktop?wid=830&hei=456&dpr=off"
+            "image": "https://bettercheatmeals.com/wp-content/uploads/2024/08/spicy-mcchicken.jpg"
           },
           {
             "id": "dish903",
@@ -1175,7 +1175,7 @@
               }
             ],
             "deliveryTime": 5,
-            "image": "https://s7d1.scene7.com/is/image/mcdonalds/FF:product-header-desktop?wid=830&hei=456&dpr=off"
+            "image": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-fries-medium-april-promo:product-header-desktop?wid=829&hei=455&dpr=off"
           }
         ]
       }
@@ -1194,7 +1194,7 @@
     },
     "categoryImage": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/16:9/w_2560%2Cc_limit/Smashburger-recipe-120219.jpg",
     "rating": 4.3,
-    "mainImage": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/2021-12/Dominos.jpg",
+    "mainImage": "https://images.squarespace-cdn.com/content/v1/596ce3c8cd0f68df1fd7598e/1549661972018-L0A4QGFYAMWFUYY301F8/Domino%27s+Pizza+technology+strategy?format=2500w",
     "additionalImages": [
       "https://example.com/images/dominos-interior1.jpg",
       "https://example.com/images/dominos-interior2.jpg",
@@ -1252,7 +1252,7 @@
               }
             ],
             "deliveryTime": 25,
-            "image": "https://cache.dominos.com/olo/6_111_2/assets/build/market/US/_en/images/img/products/larges/S_PIZPX.jpg"
+            "image": "https://www.dominos.com.sg/ManagedAssets/SG/product/PXPP/SG_PXPP_en_hero_11915.jpg?v-1996905873"
           },
           {
             "id": "dish1002",
@@ -1284,7 +1284,7 @@
               }
             ],
             "deliveryTime": 25,
-            "image": "https://cache.dominos.com/olo/6_111_2/assets/build/market/US/_en/images/img/products/larges/S_PIZUH.jpg"
+            "image": "https://img.kidspot.com.au/52lezcwU/w643-h428-cfill-q90/kk/2015/03/hawaiian-pizza-recipe-605894-2.jpg"
           },
           {
             "id": "dish1003",
@@ -1308,7 +1308,7 @@
               }
             ],
             "deliveryTime": 20,
-            "image": "https://cache.dominos.com/olo/6_111_2/assets/build/market/US/_en/images/img/products/larges/S_BONELESS.jpg"
+            "image": "https://www.dominos.com.my/ManagedAssets/MY/product/ECWS12/MY_ECWS12_en_hero_12831.jpg?v-1878501970"
           }
         ]
       }
