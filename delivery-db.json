@@ -1176,6 +1176,163 @@
             ],
             "deliveryTime": 5,
             "image": "https://s7d1.scene7.com/is/image/mcdonalds/mcdonalds-fries-medium-april-promo:product-header-desktop?wid=829&hei=455&dpr=off"
+          },
+          {
+            "id": "dish904",
+            "name": {
+              "en": "Quarter Pounder with Cheese",
+              "ka": "ქვარტერ პაუნდერი ყველით"
+            },
+            "price": 9.0,
+            "ingredients": [
+              {
+                "en": "Quarter Pound Beef Patty",
+                "ka": "მეოთხედი ფუნტი საქონლის ხორცის კოტლეტი"
+              },
+              {
+                "en": "Cheese",
+                "ka": "ყველი"
+              },
+              {
+                "en": "Onions",
+                "ka": "ხახვი"
+              },
+              {
+                "en": "Pickles",
+                "ka": "კიტრის მწნილი"
+              },
+              {
+                "en": "Mustard",
+                "ka": "მდოგვი"
+              },
+              {
+                "en": "Ketchup",
+                "ka": "კეტჩუპი"
+              }
+            ],
+            "deliveryTime": 10,
+            "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+          },
+          {
+            "id": "dish905",
+            "name": {
+              "en": "Filet-O-Fish",
+              "ka": "ფილე-ო-ფიში"
+            },
+            "price": 7.5,
+            "ingredients": [
+              {
+                "en": "Fish Fillet",
+                "ka": "თევზის ფილე"
+              },
+              {
+                "en": "Tartar Sauce",
+                "ka": "ტარტარის სოუსი"
+              },
+              {
+                "en": "Cheese",
+                "ka": "ყველი"
+              }
+            ],
+            "deliveryTime": 10,
+            "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202004_0003_Filet-O-Fish_832x472:product-header-desktop?wid=830&hei=458&dpr=off"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1010KlM",
+    "name": {
+      "en": "KFC",
+      "ka": "კეიეფსი"
+    },
+    "categoryId": "fast_food",
+    "categoryName": {
+      "en": "Fast Food",
+      "ka": "სწრაფი კვება"
+    },
+    "categoryImage": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/16:9/w_2560%2Cc_limit/Smashburger-recipe-120219.jpg",
+    "rating": 4.3,
+    "mainImage": "https://www.kfc.co.nz/assets/Uploads/BucketMeal-700x400.jpg",
+    "additionalImages": [
+      "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/story/kfc-accelerating-development.jpg",
+      "https://www.eatthis.com/wp-content/uploads/sites/4/2018/08/kfc-interior.jpg?quality=82&strip=1",
+      "https://cdn.vox-cdn.com/thumbor/XZ4fQYw7L6eoSBbsWR2KWB59A-w=/0x0:3000x2000/1200x800/filters:focal(1260x760:1740x1240)/cdn.vox-cdn.com/uploads/chorus_image/image/66525889/shtrct_kfc.0.jpg"
+    ],
+    "location": {
+      "address": {
+        "en": "123 Chicken Avenue",
+        "ka": "ქათმის გამზირი 123"
+      },
+      "city": {
+        "en": "Tbilisi",
+        "ka": "თბილისი"
+      },
+      "coordinates": {
+        "latitude": 41.7181,
+        "longitude": 44.8261
+      }
+    },
+    "fullDescription": {
+      "en": "The world-famous chicken restaurant chain specializing in Original Recipe fried chicken made with the Colonel's secret blend of 11 herbs and spices.",
+      "ka": "მსოფლიოში ცნობილი ქათმის რესტორნების ქსელი, რომელიც სპეციალიზირებულია ორიგინალური რეცეპტით შემწვარ ქათამში, დამზადებული პოლკოვნიკის საიდუმლო ნარევით 11 მწვანილით და სანელებლებით."
+    },
+    "menu": [
+      {
+        "categoryId": "chicken",
+        "categoryName": {
+          "en": "Chicken",
+          "ka": "ქათამი"
+        },
+        "dishes": [
+          {
+            "id": "dish1301",
+            "name": {
+              "en": "Original Recipe Bucket",
+              "ka": "ორიგინალური რეცეპტის ვედრო"
+            },
+            "price": 20.0,
+            "ingredients": [
+              {
+                "en": "Chicken",
+                "ka": "ქათამი"
+              },
+              {
+                "en": "Colonel's Secret Herbs and Spices",
+                "ka": "პოლკოვნიკის საიდუმლო მწვანილები და სანელებლები"
+              },
+              {
+                "en": "Breading",
+                "ka": "პანირება"
+              }
+            ],
+            "deliveryTime": 20,
+            "image": "https://digitalhub.kfc.co.za/images/q_90/v2/StaticComboCard/YKWyOYiUimYn3uLTdGDF.png/w_1920,h_1080"
+          },
+          {
+            "id": "dish1302",
+            "name": {
+              "en": "Hot Wings",
+              "ka": "ცხელი ფრთები"
+            },
+            "price": 12.0,
+            "ingredients": [
+              {
+                "en": "Chicken Wings",
+                "ka": "ქათმის ფრთები"
+              },
+              {
+                "en": "Spicy Breading",
+                "ka": "ცხარე პანირება"
+              },
+              {
+                "en": "Hot Sauce",
+                "ka": "ცხარე სოუსი"
+              }
+            ],
+            "deliveryTime": 15,
+            "image": "https://www.kfc.com/assets/products/G15022_KFC_56-Hot-Wings-Smaller_1000x1000-72dpi-1-1749e652ef290e96bb0abfb5f9e230a3.jpg"
           }
         ]
       }
