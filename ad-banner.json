@@ -4,8 +4,8 @@
       "id": "ad_1",
       "title": "50% Off on Sushi Platters",
       "description": "Enjoy half-price sushi platters every Tuesday at participating restaurants. Order now to claim this exclusive offer!",
-      "mediaType": "image",
-      "mediaUrl": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=1000",
+      "mediaType": "gif",
+      "mediaUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJuZDlnZ2k1eWVleGhpZGpiem1va3o3djNoZDl4MzdmZHNtaGh5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UwkrJKRKJkFb2/giphy.gif",
       "actionType": "restaurant",
       "actionTarget": "restaurant_123",
       "backgroundColor": "#FFE0E0"
