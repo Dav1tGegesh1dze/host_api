@@ -1,0 +1,55 @@
+{
+  "adBanners": [
+    {
+      "id": "ad_1",
+      "title": "50% Off on Sushi Platters",
+      "description": "Enjoy half-price sushi platters every Tuesday at participating restaurants. Order now to claim this exclusive offer!",
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?q=80&w=1000",
+      "actionType": "restaurant",
+      "actionTarget": "restaurant_123",
+      "backgroundColor": "#FFE0E0"
+    },
+    {
+      "id": "ad_2",
+      "title": "Free Delivery Weekend",
+      "description": "Get free delivery on all orders over $15 this weekend. No promo code needed!",
+      "mediaType": "gif",
+      "mediaUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQwZjEwZDJiMjlkMWFmN2E3N2MxNmE5MzA2ZWJkZGI0YmQ4MGM1MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3o6gbenQcUbJJf9RKg/giphy.gif",
+      "actionType": "promo",
+      "actionTarget": "FREE_DELIVERY",
+      "backgroundColor": "#E0F0FF"
+    },
+    {
+      "id": "ad_3",
+      "title": "New: Craft Burgers",
+      "description": "Try our new selection of gourmet craft burgers made with locally sourced ingredients. Available now!",
+      "mediaType": "video",
+      "mediaUrl": "https://assets.mixkit.co/videos/preview/mixkit-top-view-of-a-delicious-hamburger-placing-33528-large.mp4",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=1000",
+      "actionType": "category",
+      "actionTarget": "category_burgers",
+      "backgroundColor": "#F0E0FF"
+    },
+    {
+      "id": "ad_4",
+      "title": "Healthy Bowls Collection",
+      "description": "Discover our new range of nutritious and delicious bowls. Perfect for a balanced meal!",
+      "mediaType": "image",
+      "mediaUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1000",
+      "actionType": "collection",
+      "actionTarget": "collection_healthy",
+      "backgroundColor": "#E0FFE0"
+    },
+    {
+      "id": "ad_5",
+      "title": "Coffee Happy Hour",
+      "description": "Get any coffee at half price between 2-4 PM daily. Perfect for your afternoon pick-me-up!",
+      "mediaType": "gif",
+      "mediaUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdkMDNmZDk0ZjJjYTgyNDhhZjg2ZDdhY2Y1OTNiOGUyYzM4MWNmMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3jVT4U5bilspG/giphy.gif",
+      "actionType": "promo",
+      "actionTarget": "COFFEE_HOUR",
+      "backgroundColor": "#FFF0E0"
+    }
+  ]
+}
