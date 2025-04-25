@@ -2,10 +2,10 @@
   "adBanners": [
     {
       "id": "ad_1",
-      "title": "50% Off on Sushi Platters",
-      "description": "Enjoy half-price sushi platters every Tuesday at participating restaurants. Order now to claim this exclusive offer!",
+      "title": "50% Off on Cheeseburger Menus",
+      "description": "This week only, get 50% OFF our delicious Cheeseburger Sets!Juicy, cheesy, and stacked with flavor – now at half the price.Don’t miss out on the best burger deal in town.",
       "mediaType": "gif",
-      "mediaUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJuZDlnZ2k1eWVleGhpZGpiem1va3o3djNoZDl4MzdmZHNtaGh5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UwkrJKRKJkFb2/giphy.gif",
+      "mediaUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlkam85bGZ3MTRxcnVwYWZwYnhucGw0cTlwYWVpZ2VwOW8zNm1oZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K4x1ZL36xWCf6/giphy.gif",
       "actionType": "restaurant",
       "actionTarget": "restaurant_123",
       "backgroundColor": "#FFE0E0"
@@ -15,41 +15,51 @@
       "title": "Free Delivery Weekend",
       "description": "Get free delivery on all orders over $15 this weekend. No promo code needed!",
       "mediaType": "gif",
-      "mediaUrl": "https://giphy.com/gifs/sins-jhony-UwkrJKRKJkFb2",
+      "mediaUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY1bnducXhpanMybjk0M2k4cnZiMWdsZDhmNXp5Zm9sbG1saTY2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gBOvG0hpWtIoThutCL/giphy.gif",
       "actionType": "promo",
       "actionTarget": "FREE_DELIVERY",
       "backgroundColor": "#E0F0FF"
     },
     {
       "id": "ad_3",
-      "title": "New: Craft Burgers",
-      "description": "Try our new selection of gourmet craft burgers made with locally sourced ingredients. Available now!",
-      "mediaType": "video",
-      "mediaUrl": "https://assets.mixkit.co/videos/preview/mixkit-top-view-of-a-delicious-hamburger-placing-33528-large.mp4",
+      "title": "Fresh Sushi Creations 🍣",
+      "description": "Dive into our new lineup of premium sushi rolls, handcrafted with the finest fish and freshest ingredients. Taste Japan with every bite!",
+      "mediaType": "gif",
+      "mediaUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdyb3ZveTlleGVvMGpseGNlYm14Y3B0a2V3OWNseW5icGY2aXR1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IxeB7Hx7JBnhmM/giphy.gif",
       "thumbnailUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=1000",
       "actionType": "category",
-      "actionTarget": "category_burgers",
-      "backgroundColor": "#F0E0FF"
+      "actionTarget": "category_sushi",
+      "backgroundColor": "#E0F7FF"
     },
     {
       "id": "ad_4",
-      "title": "Healthy Bowls Collection",
-      "description": "Discover our new range of nutritious and delicious bowls. Perfect for a balanced meal!",
-      "mediaType": "image",
-      "mediaUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=1000",
+      "title": "Borjomi Sparking Water ",
+      "description": "Refresh your senses with our new sparkling water collection – lightly flavored, ice-cold, and ultra-refreshing. Hydration never tasted this good!",
+      "mediaType": "gif",
+      "mediaUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRubjVwYzQ0N253YzRqaXc4b2FwdzBnbXhlNHF0N3E3dnZxeGN3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JSv5dIKxK3jAk7LZ6h/giphy.gif",
       "actionType": "collection",
-      "actionTarget": "collection_healthy",
-      "backgroundColor": "#E0FFE0"
+      "actionTarget": "collection_sparkling",
+      "backgroundColor": "#DFF9FF"
     },
     {
       "id": "ad_5",
-      "title": "Coffee Happy Hour",
-      "description": "Get any coffee at half price between 2-4 PM daily. Perfect for your afternoon pick-me-up!",
-      "mediaType": "gif",
-      "mediaUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdkMDNmZDk0ZjJjYTgyNDhhZjg2ZDdhY2Y1OTNiOGUyYzM4MWNmMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3jVT4U5bilspG/giphy.gif",
+      "title": "Taco Fiesta Time 🌮",
+      "description": "Craving bold flavors? Try our new taco collection – spicy, savory, and made to order. It's a fiesta in every bite!",
+      "mediaType": "image",
+      "mediaUrl": "https://images.heb.com/is/image/HEBGrocery/Large/fiesta-tacos-recipe-1.jpg?v=1?jpegSize=150&hei=750&fit=constrain&qlt=75",
       "actionType": "promo",
-      "actionTarget": "COFFEE_HOUR",
-      "backgroundColor": "#FFF0E0"
+      "actionTarget": "TACO_TIME",
+      "backgroundColor": "#FFF3E0"
+    }, 
+    {
+      "id": "ad_6",
+      "title": "PontiDelivery 🚴‍♂️🍽️",
+      "description": "From your favorite restaurants to your door in minutes. Download PontiDelivery and enjoy fast, fresh food – anytime, anywhere.",
+      "mediaType": "image",
+      "mediaUrl": "https://i.pinimg.com/736x/d7/33/10/d73310dabda574836f21a97b22b30366.jpg",
+      "actionType": "download",
+      "actionTarget": "PONTI_DELIVERY_APP",
+      "backgroundColor": "#E0E9FF"
     }
   ]
 }
