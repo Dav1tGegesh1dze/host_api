@@ -6,6 +6,7 @@
       "description": "This week only, get 50% OFF our delicious Cheeseburger Sets!Juicy, cheesy, and stacked with flavor – now at half the price.Don’t miss out on the best burger deal in town.",
       "mediaType": "gif",
       "mediaUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlkam85bGZ3MTRxcnVwYWZwYnhucGw0cTlwYWVpZ2VwOW8zNm1oZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/K4x1ZL36xWCf6/giphy.gif",
+      "thumbnailUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/ff/68/05/big-sam-s-special-burger.jpg?w=1000&h=-1&s=1",
       "actionType": "restaurant",
       "actionTarget": "restaurant_123",
       "backgroundColor": "#FFE0E0"
@@ -16,6 +17,7 @@
       "description": "Get free delivery on all orders over $15 this weekend. No promo code needed!",
       "mediaType": "gif",
       "mediaUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY1bnducXhpanMybjk0M2k4cnZiMWdsZDhmNXp5Zm9sbG1saTY2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gBOvG0hpWtIoThutCL/giphy.gif",
+      "thumbnailUrl": "https://swiftdeliveryandlogistics.com/wp-content/uploads/63a99832ddf2277ef743f5e4_Last-Mile-Delivery-1030x687.webp",
       "actionType": "promo",
       "actionTarget": "FREE_DELIVERY",
       "backgroundColor": "#E0F0FF"
@@ -26,7 +28,7 @@
       "description": "Dive into our new lineup of premium sushi rolls, handcrafted with the finest fish and freshest ingredients. Taste Japan with every bite!",
       "mediaType": "gif",
       "mediaUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdyb3ZveTlleGVvMGpseGNlYm14Y3B0a2V3OWNseW5icGY2aXR1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IxeB7Hx7JBnhmM/giphy.gif",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=1000",
+      "thumbnailUrl": "https://int.japanesetaste.com/cdn/shop/articles/how-to-make-makizushi-sushi-rolls-japanese-taste.jpg?v=1707914944&width=1920",
       "actionType": "category",
       "actionTarget": "category_sushi",
       "backgroundColor": "#E0F7FF"
@@ -37,6 +39,7 @@
       "description": "Refresh your senses with our new sparkling water collection – lightly flavored, ice-cold, and ultra-refreshing. Hydration never tasted this good!",
       "mediaType": "gif",
       "mediaUrl": "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRubjVwYzQ0N253YzRqaXc4b2FwdzBnbXhlNHF0N3E3dnZxeGN3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JSv5dIKxK3jAk7LZ6h/giphy.gif",
+      "thumbnailUrl": "https://borjomi.com/_next/image?url=https%3A%2F%2Fstatic.borjomi.com%2Fuploads%2Fkv-horisontal-en-412c3fd8.webp&w=1920&q=100",
       "actionType": "collection",
       "actionTarget": "collection_sparkling",
       "backgroundColor": "#DFF9FF"
@@ -47,6 +50,7 @@
       "description": "Craving bold flavors? Try our new taco collection – spicy, savory, and made to order. It's a fiesta in every bite!",
       "mediaType": "image",
       "mediaUrl": "https://images.heb.com/is/image/HEBGrocery/Large/fiesta-tacos-recipe-1.jpg?v=1?jpegSize=150&hei=750&fit=constrain&qlt=75",
+      "thumbnailUrl": "https://www.thespruceeats.com/thmb/ses2M4uDBQ-Sk3RUoHqj1a8aXuY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chicken-tinga-tinga-de-pollo-4773239-Hero_01-1bd1d960c02a4fdb812323b8c60fd55b.jpg",
       "actionType": "promo",
       "actionTarget": "TACO_TIME",
       "backgroundColor": "#FFF3E0"
@@ -57,6 +61,7 @@
       "description": "From your favorite restaurants to your door in minutes. Download PontiDelivery and enjoy fast, fresh food – anytime, anywhere.",
       "mediaType": "image",
       "mediaUrl": "https://i.pinimg.com/736x/d7/33/10/d73310dabda574836f21a97b22b30366.jpg",
+      "thumbnailUrl": "https://i.pinimg.com/736x/d7/33/10/d73310dabda574836f21a97b22b30366.jpg",
       "actionType": "download",
       "actionTarget": "PONTI_DELIVERY_APP",
       "backgroundColor": "#E0E9FF"
